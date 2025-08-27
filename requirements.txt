@@ -1,0 +1,7 @@
+langchain-ollama
+langchain
+python-dotenv
+Pypdf2
+streamlit
+streamlit_chat
+faiss-cpu
